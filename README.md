@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gunathungapci&label=Profile%20views&color=0e75b6&style=flat" alt="gunathungapci" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunathungapci" alt="gunathungapci" /></a> </p>
+
 ---
 
 - 🌱 I’m currently learning **Mern stack,java**
@@ -14,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chathumi-gunathunga-9b0a652b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathumigunathunga" height="30" width="40" /></a>
-<a href="https://fb.com/Chathumi Gunathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathumigunathunga" height="30" width="40" /></a>
+<a href="https://fb.com/chathumigunathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathumigunathunga" height="30" width="40" /></a>
 <a href="https://instagram.com/chathumi_gunathunga_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathumigunathunga" height="30" width="40" /></a>
 </p>
 
@@ -24,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gunathungapci&show_icons=true&locale=en&layout=compact" alt="gunathungapci" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gunathungapci&show_icons=true&locale=en" alt="gunathungapci" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gunathungapci&" alt="gunathungapci" /></p>
