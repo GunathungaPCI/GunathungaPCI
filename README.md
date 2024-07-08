@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chathumi-gunathunga-9b0a652b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathumigunathunga" height="30" width="40" /></a>
-<a href="https://fb.com/chathumigunathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathumigunathunga" height="30" width="40" /></a>
+<a href="https://facebook.com/people/Chathumi-Gunathunga/pfbid02RThUDHcGQUabTCU5h1zCMV8r1ogQnBuGPbmnqi4hmUgDWexamtXSHxkXE5ZtZbRsl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathumigunathunga" height="30" width="40" /></a>
 <a href="https://instagram.com/chathumi_gunathunga_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chathumigunathunga" height="30" width="40" /></a>
 </p>
 
