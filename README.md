@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Mern stack,java**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **java**
 
